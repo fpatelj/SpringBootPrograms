@@ -1,0 +1,44 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< org.learn.java:spring-boot-rest-api >-----------------
+[INFO] Building spring-boot-rest-api 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ spring-boot-rest-api ---
+[INFO] Deleting C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-boot-rest-api ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ spring-boot-rest-api ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 7 source files to C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-boot-rest-api ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ spring-boot-rest-api ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ spring-boot-rest-api ---
+[INFO] 
+[INFO] --- maven-war-plugin:3.2.3:war (default-war) @ spring-boot-rest-api ---
+[INFO] Packaging webapp
+[INFO] Assembling webapp [spring-boot-rest-api] in [C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\target\spring-boot-rest-api-0.0.1-SNAPSHOT]
+[INFO] Processing war project
+[INFO] Copying webapp resources [C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\src\main\webapp]
+[INFO] Webapp assembled in [5860 msecs]
+[INFO] Building war: C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\target\spring-boot-rest-api-0.0.1-SNAPSHOT.war
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ spring-boot-rest-api ---
+[INFO] Installing C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\target\spring-boot-rest-api-0.0.1-SNAPSHOT.war to C:\Users\DHRUV\.m2\repository\org\learn\java\spring-boot-rest-api\0.0.1-SNAPSHOT\spring-boot-rest-api-0.0.1-SNAPSHOT.war
+[INFO] Installing C:\Users\DHRUV\Desktop\eclipse-workspace\spring-boot-rest-api\pom.xml to C:\Users\DHRUV\.m2\repository\org\learn\java\spring-boot-rest-api\0.0.1-SNAPSHOT\spring-boot-rest-api-0.0.1-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  27.245 s
+[INFO] Finished at: 2019-09-10T20:04:35-04:00
+[INFO] ------------------------------------------------------------------------
